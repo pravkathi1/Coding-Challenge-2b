@@ -1,0 +1,1 @@
+Inventory reorder assistant using JavaScript to track an item’s current stock, demand, and target levels, then compute whether to reorder, how many units, and the estimated cost.
