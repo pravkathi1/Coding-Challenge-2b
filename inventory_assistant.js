@@ -1,9 +1,9 @@
 // Coding Challenge 2b
 
-let itemName = Labubu
-let unitCost = 50
-let currentStock = 100
-let reorderLevel = 70
+let itemName = "Labubu";
+let unitCost = 50;
+let currentStock = 100;
+let reorderLevel = 70;
 let targetStock = 110
 let weeklyDemand = 30
 let supplierLeadTimeWeeks = 1
